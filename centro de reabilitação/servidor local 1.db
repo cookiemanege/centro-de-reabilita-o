@@ -1,0 +1,9 @@
+servidor_local.db
+*.db
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.pem
+*.key
